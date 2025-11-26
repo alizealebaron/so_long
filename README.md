@@ -11,7 +11,7 @@
 
 ## Inspirations && Sources
 
-- [42-cursus.gitbook.io/guide/2-rank-02/so_long]([https://42-cursus.gitbook.io/guide/2-rank-02/push_swap](https://42-cursus.gitbook.io/guide/2-rank-02/so_long/building-the-thing))
+- [42-cursus.gitbook.io/guide/2-rank-02/so_long](https://42-cursus.gitbook.io/guide/2-rank-02/so_long/building-the-thing)
 - [github.com/gerard5017/so_long](https://github.com/Gerard5017/so_long)
 - [github.com/overtekk/so_long](https://github.com/Overtekk/so_long)
 
