@@ -3,11 +3,11 @@
 
 ## Status
 
-**Commencé le :** 16/11/2025
+**Commencé le :** 20/11/2025
 
-**Rendu le :** 24/11/2025.
+**Rendu le :** Non rendu.
 
-**Note :** 84/100 (3 retry).
+**Note :** Non noté
 
 ## Sommaire
 
