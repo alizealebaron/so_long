@@ -9,11 +9,6 @@
 
 **Note :** Non noté
 
-## Sommaire
-
-- [To-do list](todoom_list.md)
-- Le reste de mon code est dans les fichiers !
-
 ## Inspirations && Sources
 
 - [42-cursus.gitbook.io/guide/2-rank-02/so_long]([https://42-cursus.gitbook.io/guide/2-rank-02/push_swap](https://42-cursus.gitbook.io/guide/2-rank-02/so_long/building-the-thing))
