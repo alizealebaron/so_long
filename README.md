@@ -7,6 +7,15 @@
 
 ---
 
+<div align="center">
+  <p>
+      <img src="https://img.shields.io/badge/score-100%20%2F%20100-success?style=for-the-badge" />
+      <img src="https://img.shields.io/github/languages/count/alizealebaron/so_long?style=for-the-badge&logo=" />
+      <img src="https://img.shields.io/github/languages/top/alizealebaron/so_long?style=for-the-badge" />
+      <img src="https://img.shields.io/github/last-commit/alizealebaron/so_long?style=for-the-badge" />
+  </p>
+</div>
+
 ## ⚠️ Avant propos
 
 - **Portfolio :** Ce repetoire se concentre sur un seul sujet. Vous pouvez retrouver tous mes projets sur mon [profil](https://github.com/alizealebaron).
@@ -19,8 +28,6 @@
 **Commencé le :** 20/11/2025
 
 **Rendu le :** 28/11/2025.
-
-**Note :** 100/100.
 
 ## 📂 Objectif du projet
 
